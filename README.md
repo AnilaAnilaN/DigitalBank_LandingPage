@@ -21,7 +21,7 @@ Users should be able to:
 - See hover states on all interactive elements
 
 ### Screenshot
-![Screenshot](./screenshots/screenshot.png)
+![Screenshot](./screenshots/desktop.png)
 
 ## Links
 - **Solution URL:** https://github.com/AnilaAnilaN/DigitalBank_LandingPage  
